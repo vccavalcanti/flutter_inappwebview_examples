@@ -1,7 +1,7 @@
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 
 // PWA Url
-final kPwaUri = WebUri('https://mdn.github.io/pwa-examples/js13kpwa/');
+final kPwaUri = WebUri('https://my.behorse.app/');
 final kPwaHost = kPwaUri.host;
 
 // Custom HTML Error Page.
